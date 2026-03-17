@@ -1,14 +1,13 @@
 # Amit Jaison
 
-Frontend engineer from Trivandrum, Kerala. I build web apps, browser extensions, and mobile apps at **InnovinLabs** — working across client projects in AI-powered commerce and security.
+Frontend engineer from Trivandrum, Kerala. I build web apps, browser extensions, and mobile apps at **InnovinLabs**.
 
 ## What I work on
 
-### Oski Labs (client)
-Building AI visibility and AEO (Answer Engine Optimization) tools for brands. Previously built ChatGPT apps with Shopify Storefront + Stripe checkout integration for brands like Allbirds, YouthCrews, Kettle & Fire, and L'Oréal. Built MCP servers that wrap any Shopify store's endpoint into a working AI integration.
-
-### SafeLife AI (client, formerly Valllt)
-Chrome extension ([Web Store](https://chromewebstore.google.com/)), Safari/Mac extension, and React Native iOS app for password management. Led the pixel-perfect redesign of the extension, iOS app, and webapp frontend. Built MCP servers and clients for AI-driven life data summarization.
+- **AI-powered commerce tools** — ChatGPT apps with Shopify Storefront + Stripe checkout integration for major brands. Built MCP servers that wrap any Shopify store's endpoint into a working AI integration. Currently building AI visibility and AEO (Answer Engine Optimization) reporting tools.
+- **Security & password management** — Chrome extension (Web Store), Safari/Mac extension, and React Native iOS app. Led pixel-perfect redesign of extension, iOS app, and webapp frontend.
+- **MCP servers & clients** — Model Context Protocol integrations for Shopify storefronts and AI-driven data summarization.
+- **WordPress sites** — Built and maintained multiple client websites.
 
 ## Notable projects
 
