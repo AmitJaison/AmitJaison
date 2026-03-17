@@ -1,21 +1,21 @@
 # Amit Jaison
 
-Full stack software engineer based in Trivandrum, Kerala, building scalable, production-ready applications from concept to deployment at a US-based startup. I work in a small, product-focused team alongside product engineers, designers, and leadership — contributing across the entire stack, from frontend interfaces to backend integrations and cloud infrastructure.
+Full stack software engineer based in Trivandrum, Kerala, building scalable, production-ready applications from concept to deployment. I work in a small, product-focused team at a US-based startup — contributing across the entire stack, from frontend interfaces to backend integrations and cloud infrastructure.
 
 I approach development with a strong emphasis on performance, modular design, and user experience. Rather than focusing only on writing code, I work across the entire product lifecycle — system design, API architecture, UI/UX decisions, infrastructure setup, and production launches. My engineering approach prioritizes maintainable architectures, clear system boundaries, and future scalability.
 
-## What I'm building
+## What I work on
 
-- **MCP servers & ChatGPT apps** — Built MCP servers and ChatGPT-based applications for brands like L'Oréal and Peloton. Developed a Shopify stores apps SDK and ChatGPT apps SDK to power widget-based checkout flows and commerce integrations.
-- **AI visibility & AEO** — Scraping and reporting systems that measure brand readiness for AI-driven search and discovery.
-- **Figma-driven component library** — Designed a workflow using React, TypeScript, Tailwind, and a Figma MCP server to streamline UI development from design to code.
-- **Password management suite** — Chrome extension (Web Store), Safari/Mac extension, and React Native iOS app. Led the pixel-perfect redesign across all three platforms.
-- **AI & LLM prototyping** — Explored the Perplexity API and Perplexity Labs to prototype scene-based employee management tools and other intelligent interfaces.
+- **AI-powered commerce tools** — ChatGPT-based applications and MCP servers for e-commerce brands, including widget-based checkout flows and storefront integrations.
+- **AI visibility & analytics** — Scraping and reporting systems that measure brand readiness for AI-driven search and discovery.
+- **Browser extensions & mobile apps** — Chrome and Safari extensions shipped to their respective stores, plus React Native iOS apps. Led pixel-perfect redesigns across multiple platforms.
+- **MCP servers & clients** — Model Context Protocol integrations for e-commerce and AI-driven data workflows.
+- **Design-to-code workflows** — Component library systems using React, TypeScript, and Tailwind to streamline UI development.
 
 ## Past work
 
 - **MargDeepthi** — Android app for visually challenged users using object detection for daily navigation (college project, 4-member team).
-- **Django backends, WordPress sites, and multiple client-facing web products** shipped through InnovinLabs.
+- **Django backends, WordPress sites, and multiple client-facing web products.**
 
 ## Projects
 
@@ -30,9 +30,9 @@ I approach development with a strong emphasis on performance, modular design, an
 **Languages:** JavaScript, TypeScript, Python, Java  
 **Frontend:** React, React Native, Next.js, Tailwind, Framer Motion  
 **Backend:** Django, Node.js  
-**AI:** MCP servers & clients, ChatGPT Apps, Perplexity API, Object Detection  
+**AI:** MCP servers & clients, ChatGPT Apps, LLM integrations, Object Detection  
 **Platforms:** Chrome Extensions, Safari Extensions, iOS (Xcode), Android Studio  
-**Infrastructure:** Vercel, Shopify Storefront API, Stripe, Figma MCP  
+**Infrastructure:** Vercel, Shopify Storefront API, Stripe  
 **Tools:** Figma, WordPress, Git
 
 ## Education
