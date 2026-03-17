@@ -102,7 +102,7 @@ I work across the entire product lifecycle — system design, API architecture, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmitJaison&show_icons=true&hide_border=true&bg_color=00000000&title_color=C56026&icon_color=C56026&text_color=777777&ring_color=C56026" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AmitJaison&show_icons=true&hide_border=true&bg_color=00000000&title_color=C56026&icon_color=C56026&text_color=777777&ring_color=C56026&count_private=true&include_all_commits=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AmitJaison&hide_border=true&background=00000000&ring=C56026&fire=C56026&currStreakLabel=C56026&sideLabels=777777&currStreakNum=777777&sideNums=777777&dates=999999" width="48%" />
 
 </div>
