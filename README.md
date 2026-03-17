@@ -1,18 +1,21 @@
 # Amit Jaison
 
-Full stack engineer and photographer from Trivandrum, Kerala. I started building things that matter in college — an Android app called MargDeepthi that used object detection to help visually challenged people navigate their daily lives. That project taught me what good software looks like: something that solves a real problem for real people.
+Full stack software engineer based in Trivandrum, Kerala, building scalable, production-ready applications from concept to deployment at a US-based startup. I work in a small, product-focused team alongside product engineers, designers, and leadership — contributing across the entire stack, from frontend interfaces to backend integrations and cloud infrastructure.
 
-After graduating with a B.Tech in Computer Science from College of Engineering Attingal in 2023, I joined **InnovinLabs** where I've been shipping across the entire stack — Django backends, React Native mobile apps, Chrome and Safari browser extensions, WordPress sites, and more recently, AI-powered tools using the Model Context Protocol. I've built a password manager that lives across iOS, Chrome Web Store, and Safari App Store, led pixel-perfect redesigns of production apps, and created ChatGPT apps with live Shopify + Stripe checkout for brands like Allbirds, YouthCrews, Kettle & Fire, and L'Oréal. Right now I'm deep in AI visibility — building scraping and reporting systems for Answer Engine Optimization to help brands understand their AI readiness.
+I approach development with a strong emphasis on performance, modular design, and user experience. Rather than focusing only on writing code, I work across the entire product lifecycle — system design, API architecture, UI/UX decisions, infrastructure setup, and production launches. My engineering approach prioritizes maintainable architectures, clear system boundaries, and future scalability.
 
-When I'm not writing code, I'm usually out with a camera.
+## What I'm building
 
-## What I've built
+- **MCP servers & ChatGPT apps** — Built MCP servers and ChatGPT-based applications for brands like L'Oréal and Peloton. Developed a Shopify stores apps SDK and ChatGPT apps SDK to power widget-based checkout flows and commerce integrations.
+- **AI visibility & AEO** — Scraping and reporting systems that measure brand readiness for AI-driven search and discovery.
+- **Figma-driven component library** — Designed a workflow using React, TypeScript, Tailwind, and a Figma MCP server to streamline UI development from design to code.
+- **Password management suite** — Chrome extension (Web Store), Safari/Mac extension, and React Native iOS app. Led the pixel-perfect redesign across all three platforms.
+- **AI & LLM prototyping** — Explored the Perplexity API and Perplexity Labs to prototype scene-based employee management tools and other intelligent interfaces.
 
-- **AI commerce integrations** — ChatGPT apps with Shopify Storefront + Stripe checkout. Built a system that wraps any store's MCP endpoint into a working AI integration.
-- **AI visibility & AEO** — Scraping and reporting tools that measure brand readiness for AI-driven search and discovery.
-- **Password management suite** — Chrome extension, Safari/Mac extension, and React Native iOS app. Led the full frontend redesign across all three platforms.
-- **MCP servers & clients** — Model Context Protocol integrations for Shopify storefronts and AI-driven data summarization.
-- **MargDeepthi** — Object detection Android app for visually challenged users (college project, 4-member team).
+## Past work
+
+- **MargDeepthi** — Android app for visually challenged users using object detection for daily navigation (college project, 4-member team).
+- **Django backends, WordPress sites, and multiple client-facing web products** shipped through InnovinLabs.
 
 ## Projects
 
@@ -25,12 +28,17 @@ When I'm not writing code, I'm usually out with a camera.
 ## Tech
 
 **Languages:** JavaScript, TypeScript, Python, Java  
-**Frontend:** React Native, Next.js, HTML/CSS, Framer Motion  
+**Frontend:** React, React Native, Next.js, Tailwind, Framer Motion  
 **Backend:** Django, Node.js  
-**AI:** MCP servers & clients, ChatGPT Apps, Object Detection  
+**AI:** MCP servers & clients, ChatGPT Apps, Perplexity API, Object Detection  
 **Platforms:** Chrome Extensions, Safari Extensions, iOS (Xcode), Android Studio  
-**Tools:** Shopify Storefront API, Stripe, WordPress, Vercel
+**Infrastructure:** Vercel, Shopify Storefront API, Stripe, Figma MCP  
+**Tools:** Figma, WordPress, Git
 
 ## Education
 
 **B.Tech in Computer Science & Engineering** — College of Engineering Attingal, 2023
+
+---
+
+Driven by a builder's mindset — I focus on creating reliable software systems while continuously refining my technical knowledge across application development, system design, and engineering best practices. When I'm not writing code, I'm usually out with a camera.
