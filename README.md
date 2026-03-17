@@ -1,6 +1,6 @@
 # Amit Jaison
 
-Frontend engineer from Trivandrum, Kerala. I build web apps, browser extensions, and mobile apps at **InnovinLabs**.
+Full stack engineer from Trivandrum, Kerala. I build web apps, browser extensions, and mobile apps at **InnovinLabs**.
 
 ## What I work on
 
