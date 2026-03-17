@@ -1,8 +1,9 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C56026&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Amit+Jaison;Full+Stack+Engineer" alt="Typing SVG" /></a>
+# Amit Jaison
+**Full Stack Engineer**
 
-<br/>
+
 
 `Trivandrum, Kerala` **·** `Building products end-to-end` **·** `B.Tech CSE '23`
 
